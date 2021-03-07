@@ -1,9 +1,0 @@
-D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Interface\bin\Debug\netstandard2.0\GameTop.Interface.deps.json
-D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Interface\bin\Debug\netstandard2.0\GameTop.Interface.dll
-D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Interface\bin\Debug\netstandard2.0\GameTop.Interface.pdb
-D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Interface\obj\Debug\netstandard2.0\GameTop.Interface.csprojAssemblyReference.cache
-D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Interface\obj\Debug\netstandard2.0\GameTop.Interface.AssemblyInfoInputs.cache
-D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Interface\obj\Debug\netstandard2.0\GameTop.Interface.AssemblyInfo.cs
-D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Interface\obj\Debug\netstandard2.0\GameTop.Interface.csproj.CoreCompileInputs.cache
-D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Interface\obj\Debug\netstandard2.0\GameTop.Interface.dll
-D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Interface\obj\Debug\netstandard2.0\GameTop.Interface.pdb
