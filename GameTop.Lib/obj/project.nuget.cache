@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QJlAOI799k/dsNXijH9/fFpo5JQbv1viNC47d87ylCU7tTmqsMyXJfzzA3JnVRB3qabfbEnQU0uS7isv+I3itw==",
+  "success": true,
+  "projectFilePath": "D:\\Usuário\\vitro\\1. Vitor Arquivos\\3. Cursos\\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\\ConsoleCore\\GameTop.Lib\\GameTop.Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vitro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

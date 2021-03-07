@@ -1,0 +1,12 @@
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Lib.deps.json
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Lib.dll
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Lib.pdb
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Interface.dll
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Interface.pdb
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.csprojAssemblyReference.cache
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.AssemblyInfoInputs.cache
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.AssemblyInfo.cs
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.csproj.CoreCompileInputs.cache
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.csproj.CopyComplete
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.dll
+D:\Usuário\vitro\1. Vitor Arquivos\3. Cursos\5. Seja Full-Stack com Asp.NET Core, Angular + EF Core [2021]\ConsoleCore\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.pdb
